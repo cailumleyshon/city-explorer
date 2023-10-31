@@ -7,6 +7,10 @@
 
 This web app is designed to interact with the LocationIQ API and utilize its geolocation services. The application provides a user-friendly interface for users to input a location, and it will return various location-related information such as latitude, longitude, and other geographical data. The goal of this project is to demonstrate how to integrate external APIs, specifically the LocationIQ API, into a React web application using Axios for making HTTP requests.
 
+## Lighthouse Report
+
+![LightHouse](lighthouse.png)
+
 ## Getting it Started
 
 - npm create vite@latest
